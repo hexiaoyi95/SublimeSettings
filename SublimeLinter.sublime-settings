@@ -1,0 +1,25 @@
+{
+	"user":
+	{
+		"lint_mode": "background",
+		"linters":
+		{
+			"cppcheck":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"enable": "style",
+				"excludes":
+				[
+				],
+				"std":
+				[
+				]
+			}
+		},
+		"mark_style": "fill",
+		"no_column_highlights_line": true
+	}
+}
